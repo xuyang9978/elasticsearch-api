@@ -1,0 +1,8 @@
+server:
+  port: 80
+  servlet:
+    context-path: /sdes
+spring:
+  elasticsearch:
+    rest:
+      uris: 127.0.0.1:9201,127.0.0.1:9202,127.0.0.1:9203
