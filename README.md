@@ -1,6 +1,6 @@
 # 这是什么
 
-java客户端操作**elasticsearch**的两种api方式
+java客户端操作**elasticsearch**的两种api
 
 - elasticsearch-api模块：使用RestHighLevel的原生API进行操作，比较繁杂
 - springdata-elasticsearch模块：使用SpringData ElasticSearch封装的API进行操作，比较简单，省去了大量的繁杂的代码
